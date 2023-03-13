@@ -1,5 +1,3 @@
-
-
 palabra = input("Introduzca una palabra: ")
 
 def esPalindromo(palabra):
